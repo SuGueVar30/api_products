@@ -23,4 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
+# Ignorar la carpeta dist
 update/
+update/UpdateRepo.js
+update/Version.txt

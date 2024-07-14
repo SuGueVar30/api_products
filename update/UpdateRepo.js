@@ -12,6 +12,8 @@ versionNumber += 1;
 fs.writeFileSync(versionFilePath, versionNumber.toString());
 const commitMessage = `Actualización_${versionNumber.toString().padStart(2, "0")}`;
 
+console.log("Actualizando repositorio...");
+
 try {
   execSync("git add .");
   execSync(`git commit -m "${commitMessage}"`);
