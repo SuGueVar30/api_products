@@ -1,7 +1,7 @@
 import { execSync } from "child_process";
 import fs from "fs";
 
-const versionFilePath = "./Version.txt";
+const versionFilePath = "./update/Version.txt";
 let versionNumber = 0;
 
 if (fs.existsSync(versionFilePath)) {
