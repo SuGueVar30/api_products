@@ -1,7 +1,7 @@
 export default function App() {
   return (
-    <div>
-      <h1> inicio</h1>
+    <div className="text-[50px] font-Yesteryear">
+      <h1> Inicio</h1>
     </div>
   );
 }
