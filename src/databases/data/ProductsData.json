@@ -1,0 +1,812 @@
+[
+  {
+    "id": "AcQomyPhtRpJAJRwX2vh",
+    "name": "Manzanas",
+    "price": 3.99,
+    "category": "Frutas",
+    "description": "Manzanas frescas y crujientes, perfectas para un snack saludable o para preparar postres deliciosos. Ricas en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/1/500/500",
+    "stock": 30
+  },
+  {
+    "id": "BjD3n8M7TzvELN4mQ5sx",
+    "name": "Plátanos",
+    "price": 1.99,
+    "category": "Frutas",
+    "description": "Plátanos maduros y dulces, ideales para comer solos o en batidos. Fuente excelente de potasio y fibra.",
+    "image": "https://picsum.photos/id/2/500/500",
+    "stock": 40
+  },
+  {
+    "id": "CmY4o9N8UzxFON5nR6ty",
+    "name": "Lechuga",
+    "price": 0.99,
+    "category": "Verduras",
+    "description": "Lechuga fresca y crujiente, perfecta para ensaladas. Rica en agua y fibra, y baja en calorías.",
+    "image": "https://picsum.photos/id/3/500/500",
+    "stock": 25
+  },
+  {
+    "id": "DnZ5p0O9VaxGON6oS7uw",
+    "name": "Tomates",
+    "price": 2.49,
+    "category": "Verduras",
+    "description": "Tomates rojos y jugosos, ideales para ensaladas, salsas y guisos. Ricos en licopeno, vitaminas y minerales.",
+    "image": "https://picsum.photos/id/4/500/500",
+    "stock": 35
+  },
+  {
+    "id": "EoA6q1P0WbyHPN7pT8vx",
+    "name": "Pepinos",
+    "price": 1.29,
+    "category": "Verduras",
+    "description": "Pepinos frescos y crujientes, perfectos para ensaladas y como snack saludable. Altos en agua y bajos en calorías.",
+    "image": "https://picsum.photos/id/5/500/500",
+    "stock": 20
+  },
+  {
+    "id": "FpB7r2Q1XczIQO8qU9wy",
+    "name": "Naranjas",
+    "price": 4.99,
+    "category": "Frutas",
+    "description": "Naranjas jugosas y dulces, perfectas para jugo o comer solas. Altas en vitamina C y antioxidantes.",
+    "image": "https://picsum.photos/id/6/500/500",
+    "stock": 28
+  },
+  {
+    "id": "GqC8s3R2YdaJRO9rV0xz",
+    "name": "Zanahorias",
+    "price": 2.99,
+    "category": "Verduras",
+    "description": "Zanahorias frescas y crujientes, ideales para ensaladas, sopas y guisos. Ricas en beta-caroteno y fibra.",
+    "image": "https://picsum.photos/id/7/500/500",
+    "stock": 32
+  },
+  {
+    "id": "HrD9t4S3ZebKSP0sW1yz",
+    "name": "Papas",
+    "price": 3.49,
+    "category": "Verduras",
+    "description": "Papas frescas y versátiles, ideales para freír, hornear o hervir. Ricas en carbohidratos y fibra.",
+    "image": "https://picsum.photos/id/8/500/500",
+    "stock": 30
+  },
+  {
+    "id": "IsE0u5T4AfcLQO1tX2ab",
+    "name": "Espinacas",
+    "price": 2.79,
+    "category": "Verduras",
+    "description": "Espinacas frescas y nutritivas, perfectas para ensaladas, sopas y guisos. Altas en hierro y vitaminas.",
+    "image": "https://picsum.photos/id/9/500/500",
+    "stock": 18
+  },
+  {
+    "id": "JtF1v6U5BgdMRP2uY3bc",
+    "name": "Fresas",
+    "price": 5.99,
+    "category": "Frutas",
+    "description": "Fresas frescas y dulces, ideales para postres, batidos o comer solas. Ricas en vitamina C y antioxidantes.",
+    "image": "https://picsum.photos/id/10/500/500",
+    "stock": 22
+  },
+  {
+    "id": "KuG2w7V6CheNSQ3vZ4cd",
+    "name": "Cebollas",
+    "price": 1.99,
+    "category": "Verduras",
+    "description": "Cebollas frescas y versátiles, perfectas para una variedad de platos. Ricas en antioxidantes y fibra.",
+    "image": "https://picsum.photos/id/11/500/500",
+    "stock": 27
+  },
+  {
+    "id": "LvH3x8W7DifOTR4wA5de",
+    "name": "Ajo",
+    "price": 0.99,
+    "category": "Verduras",
+    "description": "Ajo fresco y aromático, ideal para añadir sabor a cualquier plato. Conocido por sus propiedades antioxidantes y antiinflamatorias.",
+    "image": "https://picsum.photos/id/12/500/500",
+    "stock": 35
+  },
+  {
+    "id": "MwI4y9X8EgjPUS5xB6ef",
+    "name": "Uvas",
+    "price": 4.49,
+    "category": "Frutas",
+    "description": "Uvas frescas y jugosas, ideales para comer solas o añadir a ensaladas. Ricas en antioxidantes y vitaminas.",
+    "image": "https://picsum.photos/id/13/500/500",
+    "stock": 25
+  },
+  {
+    "id": "NxJ5z0Y9FhkQVT6yC7fg",
+    "name": "Limones",
+    "price": 3.49,
+    "category": "Frutas",
+    "description": "Limones frescos y ácidos, perfectos para dar sabor a comidas y bebidas. Altos en vitamina C.",
+    "image": "https://picsum.photos/id/14/500/500",
+    "stock": 29
+  },
+  {
+    "id": "OyK6a1Z0GilRWT7zD8gh",
+    "name": "Brócoli",
+    "price": 2.99,
+    "category": "Verduras",
+    "description": "Brócoli fresco y nutritivo, perfecto para ensaladas, sopas y guisos. Alto en vitaminas y minerales.",
+    "image": "https://picsum.photos/id/15/500/500",
+    "stock": 20
+  },
+  {
+    "id": "PzL7b2A1HjmSUX8eE9hi",
+    "name": "Mangos",
+    "price": 5.99,
+    "category": "Frutas",
+    "description": "Mangos frescos y dulces, ideales para postres, batidos o comer solos. Ricos en vitamina C y antioxidantes.",
+    "image": "https://picsum.photos/id/16/500/500",
+    "stock": 24
+  },
+  {
+    "id": "QaM8c3B2IknTVY9fF0ij",
+    "name": "Pimientos",
+    "price": 3.99,
+    "category": "Verduras",
+    "description": "Pimientos frescos y crujientes, perfectos para ensaladas, salsas y guisos. Ricos en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/17/500/500",
+    "stock": 22
+  },
+  {
+    "id": "RbN9d4C3JloUWZ0gG1jk",
+    "name": "Melones",
+    "price": 4.99,
+    "category": "Frutas",
+    "description": "Melones frescos y dulces, perfectos para postres o comer solos. Altos en agua y vitaminas.",
+    "image": "https://picsum.photos/id/18/500/500",
+    "stock": 18
+  },
+  {
+    "id": "ScO0e5D4KmpVX10hH2kl",
+    "name": "Peras",
+    "price": 3.49,
+    "category": "Frutas",
+    "description": "Peras frescas y jugosas, ideales para comer solas o añadir a ensaladas. Ricas en fibra y vitaminas.",
+    "image": "https://picsum.photos/id/19/500/500",
+    "stock": 26
+  },
+  {
+    "id": "TdP1f6E5LnoWY21iI3lm",
+    "name": "Sandías",
+    "price": 7.99,
+    "category": "Frutas",
+    "description": "Sandías frescas y jugosas, perfectas para refrescarte en días calurosos. Altas en agua y vitaminas.",
+    "image": "https://picsum.photos/id/20/500/500",
+    "stock": 17
+  },
+  {
+    "id": "UeQ2g7F6MopXZ32jJ4mn",
+    "name": "Cilantro",
+    "price": 0.99,
+    "category": "Hierbas",
+    "description": "Cilantro fresco y aromático, perfecto para añadir sabor a salsas y guisos. Rico en antioxidantes y vitaminas.",
+    "image": "https://picsum.photos/id/21/500/500",
+    "stock": 33
+  },
+  {
+    "id": "VfR3h8G7NpqYB43kK5no",
+    "name": "Pollo",
+    "price": 8.99,
+    "category": "Carnes",
+    "description": "Pollo fresco y jugoso, perfecto para una variedad de platos. Alto en proteínas y bajo en grasa.",
+    "image": "https://picsum.photos/id/22/500/500",
+    "stock": 20
+  },
+  {
+    "id": "WgS4i9H8OrqZC54lL6op",
+    "name": "Carne de res",
+    "price": 12.99,
+    "category": "Carnes",
+    "description": "Carne de res fresca y de alta calidad, perfecta para asar, freír o guisar. Rica en proteínas y hierro.",
+    "image": "https://picsum.photos/id/23/500/500",
+    "stock": 15
+  },
+  {
+    "id": "XhT5j0I9PsrAD65mM7pq",
+    "name": "Pescado",
+    "price": 9.99,
+    "category": "Pescados",
+    "description": "Pescado fresco y delicioso, ideal para una variedad de platos. Alto en proteínas y ácidos grasos omega-3.",
+    "image": "https://picsum.photos/id/24/500/500",
+    "stock": 22
+  },
+  {
+    "id": "YiU6k1J0QtsBE76nN8qr",
+    "name": "Camarones",
+    "price": 14.99,
+    "category": "Mariscos",
+    "description": "Camarones frescos y jugosos, perfectos para ensaladas, sopas y guisos. Altos en proteínas y bajos en grasa.",
+    "image": "https://picsum.photos/id/25/500/500",
+    "stock": 12
+  },
+  {
+    "id": "ZjV7l2K1RutCF87oO9rs",
+    "name": "Leche",
+    "price": 2.49,
+    "category": "Lácteos",
+    "description": "Leche fresca y nutritiva, perfecta para el desayuno o como base para muchas recetas. Rica en calcio y vitaminas.",
+    "image": "https://picsum.photos/id/26/500/500",
+    "stock": 30
+  },
+  {
+    "id": "AkW8m3L2SuvDG98pP0st",
+    "name": "Queso",
+    "price": 4.99,
+    "category": "Lácteos",
+    "description": "Queso fresco y delicioso, ideal para una variedad de platos. Rico en proteínas y calcio.",
+    "image": "https://picsum.photos/id/27/500/500",
+    "stock": 25
+  },
+  {
+    "id": "BlX9n4M3TwxEH0aqQ1tu",
+    "name": "Yogur",
+    "price": 3.49,
+    "category": "Lácteos",
+    "description": "Yogur fresco y cremoso, perfecto para el desayuno o como snack. Alto en proteínas y probióticos.",
+    "image": "https://picsum.photos/id/28/500/500",
+    "stock": 28
+  },
+  {
+    "id": "CmY0o5N4UyzFI1brR2uv",
+    "name": "Pan",
+    "price": 2.99,
+    "category": "Panadería",
+    "description": "Pan fresco y delicioso, ideal para sándwiches o acompañar tus comidas. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/29/500/500",
+    "stock": 35
+  },
+  {
+    "id": "DnZ1p6O5VzxGJ2csS3vw",
+    "name": "Huevos",
+    "price": 2.49,
+    "category": "Huevos",
+    "description": "Huevos frescos y nutritivos, perfectos para el desayuno o como ingrediente en muchas recetas. Altos en proteínas.",
+    "image": "https://picsum.photos/id/30/500/500",
+    "stock": 50
+  },
+  {
+    "id": "EoA2q7P6WayHK3dtT4wx",
+    "name": "Mantequilla",
+    "price": 3.99,
+    "category": "Lácteos",
+    "description": "Mantequilla fresca y cremosa, perfecta para cocinar o como acompañamiento. Rica en grasas saludables y vitaminas.",
+    "image": "https://picsum.photos/id/31/500/500",
+    "stock": 20
+  },
+  {
+    "id": "FpB3r8Q7XbyIL4euU5xy",
+    "name": "Aceite de oliva",
+    "price": 7.99,
+    "category": "Aceites",
+    "description": "Aceite de oliva extra virgen de alta calidad, ideal para ensaladas, cocinar o como aderezo. Rico en antioxidantes y grasas saludables.",
+    "image": "https://picsum.photos/id/32/500/500",
+    "stock": 15
+  },
+  {
+    "id": "GqC4s9R8YczJM5fvV6yz",
+    "name": "Arroz",
+    "price": 1.99,
+    "category": "Granos",
+    "description": "Arroz blanco de grano largo, perfecto para acompañar una variedad de platos. Rico en carbohidratos y bajo en grasa.",
+    "image": "https://picsum.photos/id/33/500/500",
+    "stock": 45
+  },
+  {
+    "id": "HrD5t0S9ZdaKN6gwW7za",
+    "name": "Pasta",
+    "price": 1.49,
+    "category": "Granos",
+    "description": "Pasta de trigo duro, ideal para una variedad de platos italianos. Rica en carbohidratos y proteínas.",
+    "image": "https://picsum.photos/id/34/500/500",
+    "stock": 40
+  },
+  {
+    "id": "IsE6u1T0AebLO7hxX8ab",
+    "name": "Frijoles",
+    "price": 2.49,
+    "category": "Legumbres",
+    "description": "Frijoles negros frescos y nutritivos, perfectos para sopas, guisos y ensaladas. Altos en proteínas y fibra.",
+    "image": "https://picsum.photos/id/35/500/500",
+    "stock": 38
+  },
+  {
+    "id": "JtF7v2U1BfcMP8iyY9bc",
+    "name": "Lentejas",
+    "price": 2.99,
+    "category": "Legumbres",
+    "description": "Lentejas frescas y nutritivas, ideales para sopas y guisos. Altas en proteínas y fibra.",
+    "image": "https://picsum.photos/id/36/500/500",
+    "stock": 34
+  },
+  {
+    "id": "KuG8w3V2CgdNQ9jzZ0cd",
+    "name": "Avena",
+    "price": 2.49,
+    "category": "Cereales",
+    "description": "Avena integral y saludable, perfecta para el desayuno. Alta en fibra y proteínas.",
+    "image": "https://picsum.photos/id/37/500/500",
+    "stock": 27
+  },
+  {
+    "id": "LvH9x4W3DheOR0kA1de",
+    "name": "Harina",
+    "price": 1.99,
+    "category": "Granos",
+    "description": "Harina de trigo de alta calidad, perfecta para hornear y cocinar. Rica en carbohidratos y proteínas.",
+    "image": "https://picsum.photos/id/38/500/500",
+    "stock": 50
+  },
+  {
+    "id": "MwI0y5X4EifPS1lB2ef",
+    "name": "Azúcar",
+    "price": 1.49,
+    "category": "Dulces",
+    "description": "Azúcar blanca refinada, perfecta para endulzar una variedad de platos y bebidas.",
+    "image": "https://picsum.photos/id/39/500/500",
+    "stock": 45
+  },
+  {
+    "id": "NxJ1z6Y5FjgQT2mC3fg",
+    "name": "Sal",
+    "price": 0.99,
+    "category": "Condimentos",
+    "description": "Sal de mesa refinada, esencial para sazonar y conservar alimentos. Disponible en varias presentaciones.",
+    "image": "https://picsum.photos/id/40/500/500",
+    "stock": 50
+  },
+  {
+    "id": "OyK2a7Z6GkhRU3nD4gh",
+    "name": "Pimienta",
+    "price": 2.49,
+    "category": "Condimentos",
+    "description": "Pimienta negra molida, ideal para sazonar una variedad de platos. Conocida por su sabor picante y aroma.",
+    "image": "https://picsum.photos/id/41/500/500",
+    "stock": 28
+  },
+  {
+    "id": "PzL3b8A7HilSV4oE5hi",
+    "name": "Café",
+    "price": 6.99,
+    "category": "Bebidas",
+    "description": "Café molido de alta calidad, perfecto para preparar un delicioso café en casa. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/42/500/500",
+    "stock": 20
+  },
+  {
+    "id": "QaM4c9B8IjkTW5pF6ij",
+    "name": "Té",
+    "price": 3.99,
+    "category": "Bebidas",
+    "description": "Té negro de alta calidad, perfecto para una taza de té caliente o frío. Rico en antioxidantes.",
+    "image": "https://picsum.photos/id/43/500/500",
+    "stock": 30
+  },
+  {
+    "id": "RbN5d0C9JklUX6qG7jk",
+    "name": "Jugo de naranja",
+    "price": 4.49,
+    "category": "Bebidas",
+    "description": "Jugo de naranja fresco y delicioso, perfecto para el desayuno o como bebida refrescante. Rico en vitamina C.",
+    "image": "https://picsum.photos/id/44/500/500",
+    "stock": 25
+  },
+  {
+    "id": "ScO6e1D0KlmVY7rH8kl",
+    "name": "Refresco",
+    "price": 1.99,
+    "category": "Bebidas",
+    "description": "Refresco de cola, perfecto para acompañar tus comidas o como bebida refrescante. Disponible en varias presentaciones.",
+    "image": "https://picsum.photos/id/45/500/500",
+    "stock": 50
+  },
+  {
+    "id": "TdP7f2E1LmnWZ8sI9lm",
+    "name": "Galletas",
+    "price": 2.99,
+    "category": "Dulces",
+    "description": "Galletas de chocolate, perfectas para un snack o postre. Disponibles en varias presentaciones.",
+    "image": "https://picsum.photos/id/46/500/500",
+    "stock": 35
+  },
+  {
+    "id": "UeQ8g3F2MnoX0tJk0mn",
+    "name": "Helado",
+    "price": 4.99,
+    "category": "Dulces",
+    "description": "Helado de vainilla cremoso y delicioso, perfecto para un postre refrescante. Disponible en varias presentaciones.",
+    "image": "https://picsum.photos/id/47/500/500",
+    "stock": 20
+  },
+  {
+    "id": "VfR9h4G3NopY1uL1no",
+    "name": "Mermelada",
+    "price": 3.49,
+    "category": "Dulces",
+    "description": "Mermelada de fresa, perfecta para untar en pan o galletas. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/48/500/500",
+    "stock": 25
+  },
+  {
+    "id": "WgS0i5H4OqpZ2vM2op",
+    "name": "Miel",
+    "price": 5.99,
+    "category": "Dulces",
+    "description": "Miel de abeja pura, perfecta para endulzar una variedad de platos y bebidas. Rica en antioxidantes.",
+    "image": "https://picsum.photos/id/49/500/500",
+    "stock": 15
+  },
+  {
+    "id": "XhT1j6I5PqrA3wN3pq",
+    "name": "Atún",
+    "price": 2.99,
+    "category": "Pescados",
+    "description": "Atún enlatado, perfecto para ensaladas, sándwiches o como snack. Alto en proteínas y ácidos grasos omega-3.",
+    "image": "https://picsum.photos/id/50/500/500",
+    "stock": 40
+  },
+  {
+    "id": "YiU2k7J6QrsB4xO4qr",
+    "name": "Sardinas",
+    "price": 1.99,
+    "category": "Pescados",
+    "description": "Sardinas enlatadas, ideales para ensaladas o como snack. Altas en proteínas y ácidos grasos omega-3.",
+    "image": "https://picsum.photos/id/51/500/500",
+    "stock": 35
+  },
+  {
+    "id": "ZjV3l8K7RstC5yP5rs",
+    "name": "Salchichas",
+    "price": 3.49,
+    "category": "Carnes",
+    "description": "Salchichas frescas y deliciosas, perfectas para parrilladas o acompañar tus comidas. Altas en proteínas.",
+    "image": "https://picsum.photos/id/52/500/500",
+    "stock": 30
+  },
+  {
+    "id": "AkW4m9L8TuvD6zQ6st",
+    "name": "Jamón",
+    "price": 4.99,
+    "category": "Carnes",
+    "description": "Jamón fresco y delicioso, ideal para sándwiches o acompañar tus comidas. Alto en proteínas.",
+    "image": "https://picsum.photos/id/53/500/500",
+    "stock": 25
+  },
+  {
+    "id": "BlX5n0M9UwxE7aR7tu",
+    "name": "Tocino",
+    "price": 5.99,
+    "category": "Carnes",
+    "description": "Tocino fresco y crujiente, perfecto para desayunos o añadir a tus platos favoritos. Alto en proteínas.",
+    "image": "https://picsum.photos/id/54/500/500",
+    "stock": 20
+  },
+  {
+    "id": "CmY6o1N0VyzF8bS8uv",
+    "name": "Chorizo",
+    "price": 3.99,
+    "category": "Carnes",
+    "description": "Chorizo fresco y picante, ideal para parrilladas o acompañar tus comidas. Alto en proteínas.",
+    "image": "https://picsum.photos/id/55/500/500",
+    "stock": 30
+  },
+  {
+    "id": "DnZ7p2O1WzxG9cT9vw",
+    "name": "Filete de pollo",
+    "price": 7.99,
+    "category": "Carnes",
+    "description": "Filete de pollo fresco y jugoso, perfecto para una variedad de platos. Alto en proteínas y bajo en grasa.",
+    "image": "https://picsum.photos/id/56/500/500",
+    "stock": 20
+  },
+  {
+    "id": "EoA8q3P2XayH0dU0wx",
+    "name": "Almendras",
+    "price": 8.99,
+    "category": "Frutos secos",
+    "description": "Almendras frescas y crujientes, perfectas para snacks o añadir a tus platos favoritos. Altas en proteínas y grasas saludables.",
+    "image": "https://picsum.photos/id/57/500/500",
+    "stock": 25
+  },
+  {
+    "id": "FpB9r4Q3YbyI1eV1xy",
+    "name": "Nueces",
+    "price": 7.99,
+    "category": "Frutos secos",
+    "description": "Nueces frescas y crujientes, perfectas para snacks o añadir a tus platos favoritos. Altas en proteínas y grasas saludables.",
+    "image": "https://picsum.photos/id/58/500/500",
+    "stock": 20
+  },
+  {
+    "id": "GqC0s5R4ZczJ2fW2yz",
+    "name": "Avellanas",
+    "price": 9.99,
+    "category": "Frutos secos",
+    "description": "Avellanas frescas y crujientes, perfectas para snacks o añadir a tus platos favoritos. Altas en proteínas y grasas saludables.",
+    "image": "https://picsum.photos/id/59/500/500",
+    "stock": 15
+  },
+  {
+    "id": "HrD1t6S5AeaK3gX3za",
+    "name": "Pasas",
+    "price": 4.99,
+    "category": "Frutos secos",
+    "description": "Pasas frescas y dulces, perfectas para snacks o añadir a tus platos favoritos. Altas en antioxidantes y fibra.",
+    "image": "https://picsum.photos/id/60/500/500",
+    "stock": 30
+  },
+  {
+    "id": "IsE2u7T6BfbL4hY4ab",
+    "name": "Dátiles",
+    "price": 5.99,
+    "category": "Frutos secos",
+    "description": "Dátiles frescos y dulces, perfectos para snacks o añadir a tus platos favoritos. Altos en antioxidantes y fibra.",
+    "image": "https://picsum.photos/id/61/500/500",
+    "stock": 25
+  },
+  {
+    "id": "JtF3v8U7CgcM5iZ5bc",
+    "name": "Chocolate",
+    "price": 2.99,
+    "category": "Dulces",
+    "description": "Chocolate negro de alta calidad, perfecto para snacks o postres. Rico en antioxidantes.",
+    "image": "https://picsum.photos/id/62/500/500",
+    "stock": 35
+  },
+  {
+    "id": "KuG4w9V8DhdN6jA6cd",
+    "name": "Caramelos",
+    "price": 1.99,
+    "category": "Dulces",
+    "description": "Caramelos surtidos, perfectos para un snack dulce. Disponibles en varias variedades.",
+    "image": "https://picsum.photos/id/63/500/500",
+    "stock": 50
+  },
+  {
+    "id": "LvH5x0W9EieO7kB7de",
+    "name": "Papas fritas",
+    "price": 1.49,
+    "category": "Snacks",
+    "description": "Papas fritas crujientes, perfectas para snacks o acompañar tus comidas. Disponibles en varias variedades.",
+    "image": "https://picsum.photos/id/64/500/500",
+    "stock": 40
+  },
+  {
+    "id": "MwI6y1X0FjfP8lC8ef",
+    "name": "Nachos",
+    "price": 2.49,
+    "category": "Snacks",
+    "description": "Nachos crujientes, perfectos para snacks o acompañar tus comidas. Disponibles en varias variedades.",
+    "image": "https://picsum.photos/id/65/500/500",
+    "stock": 35
+  },
+  {
+    "id": "NxJ7z2Y1GkgQ9mD9fg",
+    "name": "Galletas saladas",
+    "price": 2.99,
+    "category": "Snacks",
+    "description": "Galletas saladas crujientes, perfectas para snacks o acompañar tus comidas. Disponibles en varias variedades.",
+    "image": "https://picsum.photos/id/66/500/500",
+    "stock": 30
+  },
+  {
+    "id": "OyK8a3Z2HlhR0nE0gh",
+    "name": "Palomitas",
+    "price": 1.99,
+    "category": "Snacks",
+    "description": "Palomitas de maíz, perfectas para snacks o acompañar tus películas. Disponibles en varias variedades.",
+    "image": "https://picsum.photos/id/67/500/500",
+    "stock": 40
+  },
+  {
+    "id": "PzL9b4A3ImiS1oF1hi",
+    "name": "Cacahuates",
+    "price": 2.49,
+    "category": "Snacks",
+    "description": "Cacahuates tostados, perfectos para snacks o acompañar tus comidas. Altos en proteínas y grasas saludables.",
+    "image": "https://picsum.photos/id/68/500/500",
+    "stock": 30
+  },
+  {
+    "id": "QaM0c5B4JnjT2pG2ij",
+    "name": "Almendras",
+    "price": 3.99,
+    "category": "Snacks",
+    "description": "Almendras tostadas, perfectas para snacks o acompañar tus comidas. Altas en proteínas y grasas saludables.",
+    "image": "https://picsum.photos/id/69/500/500",
+    "stock": 25
+  },
+  {
+    "id": "RbN1d6C5KokU3qH3jk",
+    "name": "Nueces",
+    "price": 4.99,
+    "category": "Snacks",
+    "description": "Nueces tostadas, perfectas para snacks o acompañar tus comidas. Altas en proteínas y grasas saludables.",
+    "image": "https://picsum.photos/id/70/500/500",
+    "stock": 20
+  },
+  {
+    "id": "ScO2e7D6LmnV5rH8kl",
+    "name": "Cereal",
+    "price": 3.49,
+    "category": "Desayuno",
+    "description": "Cereal integral de avena, perfecto para un desayuno nutritivo. Rico en fibra y bajo en azúcar.",
+    "image": "https://picsum.photos/id/71/500/500",
+    "stock": 45
+  },
+  {
+    "id": "TdP3f8E7NopX6sI9lm",
+    "name": "Mantequilla",
+    "price": 2.99,
+    "category": "Lácteos",
+    "description": "Mantequilla fresca, perfecta para untar en pan o cocinar. Rica en grasas saludables.",
+    "image": "https://picsum.photos/id/72/500/500",
+    "stock": 35
+  },
+  {
+    "id": "UeQ4g9F8OqrY7tJk0mn",
+    "name": "Yogur",
+    "price": 1.99,
+    "category": "Lácteos",
+    "description": "Yogur natural, perfecto para desayunos o snacks. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/73/500/500",
+    "stock": 40
+  },
+  {
+    "id": "VfR5h0G9PqrZ8uL1no",
+    "name": "Queso",
+    "price": 4.99,
+    "category": "Lácteos",
+    "description": "Queso fresco, perfecto para acompañar tus comidas o como snack. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/74/500/500",
+    "stock": 25
+  },
+  {
+    "id": "WgS6i1H0QrsA9vM2op",
+    "name": "Leche",
+    "price": 1.49,
+    "category": "Lácteos",
+    "description": "Leche fresca, perfecta para desayunos o cocinar. Disponible en varias presentaciones.",
+    "image": "https://picsum.photos/id/75/500/500",
+    "stock": 50
+  },
+  {
+    "id": "XhT7j2I1RstB0wN3pq",
+    "name": "Huevos",
+    "price": 2.49,
+    "category": "Huevos",
+    "description": "Huevos frescos, perfectos para desayunos o cocinar. Altos en proteínas y nutrientes esenciales.",
+    "image": "https://picsum.photos/id/76/500/500",
+    "stock": 40
+  },
+  {
+    "id": "YiU8k3J2TuvC1xO4qr",
+    "name": "Pan",
+    "price": 1.99,
+    "category": "Panadería",
+    "description": "Pan fresco y crujiente, perfecto para desayunos o acompañar tus comidas. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/77/500/500",
+    "stock": 35
+  },
+  {
+    "id": "ZjV9l4K3UvwD2yP5rs",
+    "name": "Tortillas",
+    "price": 1.49,
+    "category": "Panadería",
+    "description": "Tortillas frescas, perfectas para tacos o acompañar tus comidas. Disponibles en varias presentaciones.",
+    "image": "https://picsum.photos/id/78/500/500",
+    "stock": 30
+  },
+  {
+    "id": "AkW0m5L4WxyE3zQ6st",
+    "name": "Croissants",
+    "price": 2.99,
+    "category": "Panadería",
+    "description": "Croissants frescos y mantecosos, perfectos para desayunos o snacks. Disponibles en varias presentaciones.",
+    "image": "https://picsum.photos/id/79/500/500",
+    "stock": 25
+  },
+  {
+    "id": "BlX1n6M5XyzF4aR7tu",
+    "name": "Pan de molde",
+    "price": 2.49,
+    "category": "Panadería",
+    "description": "Pan de molde fresco, perfecto para sándwiches o tostadas. Disponible en varias variedades.",
+    "image": "https://picsum.photos/id/80/500/500",
+    "stock": 40
+  },
+  {
+    "id": "CmY2o7N6YzaG5bS8uv",
+    "name": "Galletas de avena",
+    "price": 2.99,
+    "category": "Snacks",
+    "description": "Galletas de avena crujientes y saludables, perfectas para snacks. Altas en fibra y nutrientes.",
+    "image": "https://picsum.photos/id/81/500/500",
+    "stock": 35
+  },
+  {
+    "id": "DnZ3p8O7ZabH6cT9vw",
+    "name": "Galletas de chocolate",
+    "price": 2.99,
+    "category": "Snacks",
+    "description": "Galletas de chocolate deliciosas y crujientes, perfectas para snacks o postres. Disponibles en varias presentaciones.",
+    "image": "https://picsum.photos/id/82/500/500",
+    "stock": 30
+  },
+  {
+    "id": "EoA4q9P8AacI7dU0wx",
+    "name": "Barritas de granola",
+    "price": 3.49,
+    "category": "Snacks",
+    "description": "Barritas de granola saludables, perfectas para snacks. Altas en fibra y nutrientes.",
+    "image": "https://picsum.photos/id/83/500/500",
+    "stock": 25
+  },
+  {
+    "id": "FpB5r0Q9BabJ8eV1xy",
+    "name": "Papaya",
+    "price": 1.99,
+    "category": "Frutas",
+    "description": "Papaya fresca y dulce, perfecta para desayunos o snacks. Rica en vitaminas y fibra.",
+    "image": "https://picsum.photos/id/84/500/500",
+    "stock": 30
+  },
+  {
+    "id": "GqC6s1R0CabK9fW2yz",
+    "name": "Mango",
+    "price": 2.49,
+    "category": "Frutas",
+    "description": "Mango fresco y jugoso, perfecto para desayunos o snacks. Rico en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/85/500/500",
+    "stock": 35
+  },
+  {
+    "id": "HrD7t2S1DacL0gX3za",
+    "name": "Piña",
+    "price": 1.99,
+    "category": "Frutas",
+    "description": "Piña fresca y dulce, perfecta para desayunos o snacks. Rica en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/86/500/500",
+    "stock": 25
+  },
+  {
+    "id": "IsE8u3T2EadM1hY4ab",
+    "name": "Sandía",
+    "price": 1.49,
+    "category": "Frutas",
+    "description": "Sandía fresca y jugosa, perfecta para snacks o postres. Rica en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/87/500/500",
+    "stock": 30
+  },
+  {
+    "id": "JtF9v4U3FabN2iZ5bc",
+    "name": "Uvas",
+    "price": 2.99,
+    "category": "Frutas",
+    "description": "Uvas frescas y dulces, perfectas para snacks o postres. Ricas en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/88/500/500",
+    "stock": 35
+  },
+  {
+    "id": "KuG0w5V4GacO3jA6cd",
+    "name": "Peras",
+    "price": 2.49,
+    "category": "Frutas",
+    "description": "Peras frescas y jugosas, perfectas para desayunos o snacks. Ricas en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/89/500/500",
+    "stock": 40
+  },
+  {
+    "id": "LvH1x6W5HabP4kB7de",
+    "name": "Manzanas",
+    "price": 1.99,
+    "category": "Frutas",
+    "description": "Manzanas frescas y crujientes, perfectas para desayunos o snacks. Ricas en vitaminas y antioxidantes.",
+    "image": "https://picsum.photos/id/89/500/500",
+    "stock": 40
+  }
+]
